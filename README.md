@@ -1,1 +1,2 @@
-# Data-structure-learning-package
+本人跟着青岛大学王卓老师学习数据结构时写的笔记，以及一些跟着敲得代码，基本每个代码里面都有详细的注释说明每个结构的原理和我自己的理解，希望对大家的学习有所帮助
+王卓老师数据结构课程链接：【数据结构与算法基础（青岛大学-王卓）】https://www.bilibili.com/video/BV1nJ411V7bd?vd_source=a354c88e201b71babc56e18f049f13be
